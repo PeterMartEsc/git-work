@@ -7,7 +7,7 @@
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #333;
+  color: darkgreen;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
